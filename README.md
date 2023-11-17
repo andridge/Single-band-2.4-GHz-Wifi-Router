@@ -1,7 +1,8 @@
 # Single-band-2.4-GHz-Wifi-Router
 It combines advanced 802.11 b/g/n standards for efficient data transfer, a robust power output, expandable memory, and a flexible USB port for enhanced functionality.
+<img width="711" alt="Screenshot 2023-11-17 at 18 52 13" src="https://github.com/andridge/Single-band-2.4-GHz-Wifi-Router/assets/46260701/a5ba93d1-cdea-4abb-8d7f-cf68b455b826">
 
-[project X2.pdf](https://github.com/andridge/Single-band-2.4-GHz-Wifi-Router/files/13393930/project.X2.pdf)
+
 Specifications
 Medium-Speed Connectivity: Achieve reliable wireless speeds of 130Mbps in real-world scenarios through 802.11 b/g/n standards (Wi-Fi 4).
 Signal Strength: Maintain a strong wireless signal with a power output of 20dBm or 100mW for extended coverage.
